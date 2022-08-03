@@ -125,4 +125,18 @@ a{
     font-family: Microsoft Yahei;
     font-weight: 2px;
 }
-           
+
+footer { 
+    background:#CCC;
+    border-top:1px solid #000;
+     padding:10px 0 30px 0; 
+     width:100%;
+} 
+
+.color-F00 { 
+    color:#F00
+}
+
+body {
+    background-image: linear-gradient(to right, deeppink, orange);
+}           
