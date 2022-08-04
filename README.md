@@ -7,7 +7,3 @@ hi！这就是这个网页的ReadMe.md形态了！
 还有呢，冷知识：食用该网页，最好用电脑！
 
 ***
-
-有关他，可以前往查看他的B站主页：[大佬的主页](https://space.bilibili.com/451368848)
-
-或者他的github js库:[好欸！事js！](https://github.com/triggerjs/trigger)
