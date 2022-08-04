@@ -8,8 +8,6 @@ hi！这就是这个网页的ReadMe.md形态了！
 
 ***
 
-此网页使用了CodingStartUp代码库的js库，感谢大佬！
-
 有关他，可以前往查看他的B站主页：[大佬的主页](https://space.bilibili.com/451368848)
 
 或者他的github js库:[好欸！事js！](https://github.com/triggerjs/trigger)
